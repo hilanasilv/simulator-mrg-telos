@@ -42,7 +42,7 @@ const repassesComSucessoPorOrgao = repassesSucesso.reduce((acc, data) => {
 
 //Exibir no console
 console.log(`Total de repasses bem sucedidos: ${totalRepassesComSucesso}`);
-console.log(`Total de repasses bem sucedidos:  ${totalValorRepassesComSucesso}\n`);
+console.log(`Total de repasses bem sucedidos: ${totalValorRepassesComSucesso}\n`);
 console.log("Total de repasses bem sucedidos, por órgão:");
 Object.keys(repassesComSucessoPorOrgao).forEach(orgao => {
     console.log(`- ${orgao}:`);
