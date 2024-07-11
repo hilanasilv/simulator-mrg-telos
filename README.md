@@ -4,10 +4,6 @@
 
 Esse projeto consiste em um sistema automatizado que recebe os dados do governo, analisa e exibe informações relevantes.
 
-
-🚧 Projeto em construção 🚧
-
-
 🔨 **Funcionalidades do projeto**
 
 Implementar o monitorador de repasses governamentais de acordo com as histórias de usuário.
